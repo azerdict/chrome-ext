@@ -1,4 +1,9 @@
-inline-search-chrome-ext
+azerdict Chrome extension
 ========================
 
-Chrome extension for inline translation
+- Context menu for inline translation
+
+### TODO ###
+- Browser action: ability to translate inside a popup using [azerdict API](http://azerdict.com/contact "API")
+
+*Note: we accept pull requests*
