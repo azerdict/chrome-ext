@@ -1,5 +1,7 @@
 {
   "name": "azerdict translate",
+  "default_locale": "en",
+  "description": "Translate just by clicking right button of your mouse on a selected text",
   "version" : "1.0.0",
   "icons" : {
     "16" : "azerdict-icon-little.png",
