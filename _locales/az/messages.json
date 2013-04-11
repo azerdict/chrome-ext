@@ -1,0 +1,18 @@
+{
+  "extName": {
+    "message": "azerdict",
+    "description": "extension name"
+  },
+  "extDesc": {
+    "message": "Seçili sözün üzərində sağ düyməni sıxaraq tərcümə edin",
+    "description": "extension description"
+  },
+  "extTitle": {
+    "message": "azerdict",
+    "description": "default title of the extension"
+  },
+  "translate": {
+    "message": "tərcümə et",
+    "description": "translate action on the menu"
+  }
+}

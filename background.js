@@ -4,7 +4,7 @@
  * Create a context menu
  */
 chrome.contextMenus.create({
-  "title" : "translate",
+  "title" : chrome.i18n.getMessage('translate'),
   "contexts": ["all"],
   "type" : "normal",
   "onclick" : getClickHandler()

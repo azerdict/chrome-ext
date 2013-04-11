@@ -1,0 +1,18 @@
+{
+  "extName": {
+    "message": "azerdict translate",
+    "description": "extension name"
+  },
+  "extDesc": {
+    "message": "Translate just by clicking right button of your mouse on a selected text",
+    "description": "extension description"
+  },
+  "extTitle": {
+    "message": "translate by azerdict",
+    "description": "default title of the extension"
+  },
+  "translate": {
+    "message": "translate",
+    "description": "translate action on the menu"
+  }
+}
