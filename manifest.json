@@ -1,0 +1,22 @@
+{
+  "name": "azerdict translate",
+  "version" : "1.0.0",
+  "icons" : {
+    "16" : "azerdict-icon-little.png",
+    "48" : "azerdict-icon-little.png"
+  },
+  "background" : { "scripts": ["background.js"] },
+  "page_action": {
+      "default_icon" : "azerdict-icon-little.png",
+      "default_title" : "translate by azerdict" 
+  },
+  "homepage_url": "http://azerdict.com",
+  "offline_enabled": false,
+  "minimum_chrome_version" : "6.0.0.0",
+  "manifest_version": 2,
+  "permissions" : [
+    "contextMenus",
+    "http://*/*",
+    "https://*/*"
+  ]
+}
