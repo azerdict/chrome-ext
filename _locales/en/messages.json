@@ -12,7 +12,7 @@
     "description": "default title of the extension"
   },
   "translate": {
-    "message": "translate",
+    "message": "Translate",
     "description": "translate action on the menu"
   }
 }
