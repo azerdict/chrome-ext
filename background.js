@@ -21,7 +21,7 @@ function getClickHandler() {
 
     if (selectionText) {
       // The user selected some text, translate this
-      azerdictUrl += "english/" + encodeURI(selectionText) + "?utm_source=inline-search&utm_medium=chrome&utm_campaign=chrome-ext";
+      azerdictUrl += "english/" + encodeURI(selectionText) + "?utm_source=azerdict-chrome-ext&utm_medium=chrome";
     }
 
     // Go to the page
